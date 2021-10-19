@@ -43,8 +43,7 @@ body {
 #intro_right {
     display: inline-block;
     vertical-align: middle;
-    width: 160px;
-    padding:30px;
+    width: 250px;
 }
 
 #intro_right h1 {
